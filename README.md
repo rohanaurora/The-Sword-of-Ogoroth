@@ -8,7 +8,7 @@ To start the game be sure to install [Python 3 (version 3.x)](https://www.python
 $ python3 Game.py
 ```
 
-####Demo - 
+#### Demo - 
 
 ![Image](Screenshot.png)
 
